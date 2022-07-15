@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">CODM_Helper</string>
+    <string-array name="Assault_Rifle">
+        <item>Escolha sua arma</item>
+        <item>M4</item>
+        <item>AK-47</item>
+        <item>AK-117</item>
+    </string-array>
+
+    <string-array name="SMG_array">
+        <item>Escolha sua arma</item>
+        <item>QQ9</item>
+        <item>RUS-79U</item>
+        <item>Fennec</item>
+    </string-array>
+
+    <string-array name="LMG_array">
+        <item>Escolha sua arma</item>
+        <item>M4LMG</item>
+        <item>RPD</item>
+        <item>Holger 26</item>
+    </string-array>
+
+    <string-array name="Sniper_array">
+        <item>Escolha sua arma</item>
+        <item>DL Q33</item>
+        <item>Locus</item>
+        <item>SVD</item>
+    </string-array>
+
+    <string-array name="Escopeta_array">
+        <item>Escolha sua arma</item>
+        <item>Striker</item>
+        <item>Echo</item>
+        <item>HS0405</item>
+    </string-array>
+
+    <string-array name="Atirador_array">
+        <item>Escolha sua arma</item>
+        <item>SP-R 208</item>
+        <item>SKS</item>
+        <item>MK2</item>
+    </string-array>
+
+</resources>
